@@ -1,22 +1,22 @@
 let quotes = [
    {
-     "qu": "Expect nothing from no one",
+     "qu": "To him who much is giving, much is expected",
      "au": "bukason"
    },
    {
-     "qu": "Do not be naive",
+     "qu": "Love is the solution to the world problams",
      "au": "Ebuka"
    },
     {
-     "qu": "You can only depend on God and yourself",
-     "au": "professor"
+     "qu": "Hard work pays",
+     "au": "Ebuka"
    },
     {
      "qu": "Never give up",
      "au": "Nzeanoieh"
    },
     {
-     "qu": "Money is a defence",
+     "qu": "If you do good to others, it will come back to you in unexpected ways",
      "au": "Chukwuebuka"
    },
     {
